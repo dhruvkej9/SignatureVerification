@@ -35,6 +35,7 @@ Signature verification model based on the Siamese network architecture using the
 ### Model6_EfficientNetB0Siamese
 Signature verification model based on the Siamese network architecture using the EfficientNet-B0 model.
 
+These models are trained to perform signature verification tasks, which involve determining the authenticity of a given signature. The models are capable of differentiating between real and forged images of signatures, providing a mechanism to detect fraudulent or unauthorized signatures.
 ## Usage
 
 To use these pre-trained models, follow the instructions below:
