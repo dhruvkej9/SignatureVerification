@@ -42,7 +42,7 @@ To use these pre-trained models, follow the instructions below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
+https://github.com/dhruvkej9/SignatureVerification.git
 ```
 
 2. Install the necessary dependencies (if any) specified in the repository.
