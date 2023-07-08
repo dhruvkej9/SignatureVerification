@@ -1,49 +1,56 @@
-Signature Verification Models
+# Signature Verification Models
+
 This repository contains pre-trained signature verification models on three datasets: BhSig260Hindi, BhSig260Bengali, and Cedar.
 
-Dataset Information
-BhSig260Hindi
+## Dataset Information
+
+### BhSig260Hindi
 This dataset consists of 260 Hindi signatures collected from different individuals. It is primarily used for Hindi signature verification tasks.
 
-BhSig260Bengali
+### BhSig260Bengali
 This dataset comprises 260 Bengali signatures obtained from various individuals. It is primarily used for Bengali signature verification tasks.
 
-Cedar
+### Cedar
 The Cedar dataset contains a collection of signatures captured from multiple writers. It serves as a benchmark for signature verification research and development.
 
-Trained Models
+## Trained Models
+
 The repository includes the following trained models:
 
-Model1_SCNN
+### Model1_SCNN
 Signature verification model based on SCNN architecture.
 
-Model2_SigNetSiamese
+### Model2_SigNetSiamese
 Signature verification model based on the Siamese network architecture using the SigNet model.
 
-Model3_Resnet50
+### Model3_Resnet50
 Signature verification model based on the ResNet-50 architecture.
 
-Model4_Resnet50Siamese
+### Model4_Resnet50Siamese
 Signature verification model based on the Siamese network architecture using the ResNet-50 model.
 
-Model5_Resnet18Siamese
+### Model5_Resnet18Siamese
 Signature verification model based on the Siamese network architecture using the ResNet-18 model.
 
-Model6_EfficientNetB0Siamese
+### Model6_EfficientNetB0Siamese
 Signature verification model based on the Siamese network architecture using the EfficientNet-B0 model.
 
-Usage
+## Usage
+
 To use these pre-trained models, follow the instructions below:
 
-Clone the repository:
-bash
-Copy code
+1. Clone the repository:
+
+```bash
 git clone https://github.com/your-username/repo-name.git
-Install the necessary dependencies (if any) specified in the repository.
+```
 
-Load the desired model for signature verification in your application.
+2. Install the necessary dependencies (if any) specified in the repository.
 
-Provide the input signature image(s) and obtain the verification results.
+3. Load the desired model for signature verification in your application.
 
-Contributions
+4. Provide the input signature image(s) and obtain the verification results.
+
+## Contributions
+
 Contributions to this repository are welcome! If you have trained additional signature verification models on the mentioned datasets or have any improvements to existing models, feel free to submit a pull request.
