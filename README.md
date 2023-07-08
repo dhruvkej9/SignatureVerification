@@ -5,10 +5,10 @@ This repository contains pre-trained signature verification models on three data
 ## Dataset Information
 
 ### BhSig260Hindi
-This dataset consists of 260 Hindi signatures collected from different individuals. It is primarily used for Hindi signature verification tasks.
+This dataset consists of 160 Hindi signatures collected from different individuals. It is primarily used for Hindi signature verification tasks.
 
 ### BhSig260Bengali
-This dataset comprises 260 Bengali signatures obtained from various individuals. It is primarily used for Bengali signature verification tasks.
+This dataset comprises 100 Bengali signatures obtained from various individuals. It is primarily used for Bengali signature verification tasks.
 
 ### Cedar
 The Cedar dataset contains a collection of signatures captured from multiple writers. It serves as a benchmark for signature verification research and development.
