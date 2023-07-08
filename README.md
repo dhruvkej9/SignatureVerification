@@ -45,11 +45,7 @@ To use these pre-trained models, follow the instructions below:
 https://github.com/dhruvkej9/SignatureVerification.git
 ```
 
-2. Install the necessary dependencies (if any) specified in the repository.
-
-3. Load the desired model for signature verification in your application.
-
-4. Provide the input signature image(s) and obtain the verification results.
+2. Install the necessary dependencies (if any) specified in the import of each file.
 
 ## Contributions
 
